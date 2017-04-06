@@ -39,3 +39,7 @@ Go to your main .ts file and import the stylesheets as follows:
 import 'devextreme/dist/css/dx.common.css';
 import 'devextreme/dist/css/dx.light.css';
 ```
+
+## For Visual Studio ASP.Net Core ##
+
+Please see this [tutorial](https://js.devexpress.com/Documentation/16_2/Guide/VS_Integration/Add_DevExtreme_to_NET_Core_Angular_2_Template/?search=Angular%20ASP.NET%20core)
